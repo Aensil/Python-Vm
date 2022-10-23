@@ -1,4 +1,4 @@
-# Steps to Run
+# Steps to Run The game
 
 Follow the Steps:
 
