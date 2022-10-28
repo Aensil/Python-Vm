@@ -1,0 +1,6 @@
+services:
+    app-read-csv:
+        build:
+            contex:
+            dockerfile: Dockerfile
+        
