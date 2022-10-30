@@ -1,6 +1,7 @@
 services:
-    app-read-csv:
-        build:
-            contex:
-            dockerfile: Dockerfile
-        
+  app-csv:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - .:/app
